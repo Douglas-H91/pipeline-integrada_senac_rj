@@ -1,0 +1,21 @@
+id_cliente;nome;cidade_origem;estado_origem;faixa_etaria;tipo_cliente
+301;Alexandre Bittencourt;Lisboa;EX;36-45;Corporativo
+302;Beatriz Falcão;Belo Horizonte;MG;26-35;Pessoa Física
+303;Caio Serpa;Belo Horizonte;MG;36-45;PJ
+304;Débora Vasconcelos;Miami;EX;;PF
+305;Eduardo Mourão;Buenos Aires;EX;46-55;Pessoa Jurídica
+306;Fabiana Restier;Porto Alegre;rs;46-55;PF
+307;Gustavo Peixoto;Nova York;EX;56-65;Pessoa Jurídica
+308;Helena Quintela;Brasília;DF;36-45;PJ
+309;Igor Salgado;Brasília;DF;56-65;Pessoa Jurídica
+310;Joana Villar;Porto Alegre;RS;36-45;PJ
+311;Kleber Andrade Neto;Curitiba;PR;26-35;Pessoa Jurídica
+312;Larissa Monteverde;São Paulo;SP;26-35;Corporativo
+313;Marcelo Trindade;Rio de Janeiro;RJ;26-35;PF
+314;Natália Ferraz;Brasília;DF;46-55;PF
+315;Otávio Camargo;Nova York;EX;26-35;PJ
+316;Priscila Guimarães;Lisboa;EX;;PF
+317;Rodrigo Vasques;Rio de Janeiro;RJ;36-45;PF
+318;Sabrina Leitão;Brasília;DF;46-55;PF
+319;Thiago Bicalho;Belo Horizonte;MG;46-55;Pessoa Jurídica
+320;Vivian Lacerda;Buenos Aires;EX;56-65;Pessoa Jurídica
