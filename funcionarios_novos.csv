@@ -1,0 +1,11 @@
+id_funcionario;id_unidade;nome;cargo;departamento;salario;data_admissao
+135;13;Marcos Andrade;Concierge;Governança;"""3.987,71""";2024-05-22
+136;13;Fernanda Lopes;Sommelier;Governança;"""2.432,01""";2024-04-05
+137;13;Ricardo Nunes;Sommelier;A&B;"""3.651,51""";2025-07-12
+138;13;Patrícia Melo;analista financeiro;A&B;"""8.545,89""";2024-06-12
+139;13;Bruno Cardoso;Auxiliar de Limpeza;Financeiro;"""9.187,66""";2024-12-10
+140;13;Camila Ferreira;Segurança;Governança;"""4.710,88""";2024-09-27
+141;13;Diego Ramos;analista financeiro;A&B;"""8.932,76""";2024-03-21
+142;13;Juliana Prado;Chef de Cozinha;Operações;;2024-03-12
+143;13;Leonardo Vaz;Manobrista;operações;"""2.782,48""";2024-08-26
+144;13;Renata Castro;Segurança;Financeiro;"""8.289,01""";2024-06-15
