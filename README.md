@@ -8,7 +8,6 @@ Este projeto aplica a uma rede hoteleira fictícia (NaraHoteis) o ciclo completo
 - [Objetivo](#objetivo)
 - [Perguntas de negócio respondidas](#perguntas-de-negócio-respondidas)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
-- [Estrutura do repositório](#estrutura-do-repositório)
 - [Pipeline do projeto](#pipeline-do-projeto)
 - [Como executar](#como-executar)
 - [Principais aprendizados](#principais-aprendizados)
@@ -41,24 +40,6 @@ A NaraHoteis é uma rede fictícia de 13 unidades espalhadas por diferentes regi
 - **matplotlib** — visualização exploratória no notebook
 - **MySQL** e **MySQL Workbench** — modelagem relacional, carga dos dados tratados e consultas
 - **Jupyter Notebook**
-
-## 📁 Estrutura do repositório
-projeto-nara-hoteis/
-├── README.md
-├── notebooks/
-│ └── auditoria_tratamento.ipynb
-├── data/
-│ └── tratados/
-│ ├── canais_tratada.csv
-│ ├── clientes_tratada.csv
-│ ├── funcionarios_tratada.csv
-│ ├── quartos_tratada.csv
-│ ├── reservas_tratada.csv
-│ └── unidades_tratada.csv
-├── sql/
-│ └── criacao_carga.sql
-└── requirements.txt
-
 
 ## 🔄 Pipeline do projeto
 
